@@ -44,5 +44,7 @@
     <p>Contributions to the project are welcome. Please fork the repository and submit a pull request with your changes.</p>
     <h3>License</h3>
     <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+    <h3>Project Status</h3>
+    <p>The Face Recognition Student Management System is a work in progress. We are actively working on adding new features and improving existing functionalities. Stay tuned for updates!</p>
 </body>
 </html>
